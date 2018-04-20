@@ -1,0 +1,2 @@
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.BusinessRules\obj\Debug\SP.BusinessRules.csprojResolveAssemblyReference.cache
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.BusinessRules\obj\Debug\SP.BusinessRules.csproj.CoreCompileInputs.cache

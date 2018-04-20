@@ -1,0 +1,8 @@
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\obj\Debug\SP.Common.csproj.CoreCompileInputs.cache
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\bin\Debug\BSW.Common.dll
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\bin\Debug\BSW.Common.pdb
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\bin\Debug\HtmlAgilityPack.dll
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\bin\Debug\HtmlAgilityPack.xml
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\obj\Debug\BSW.Common.dll
+C:\Users\sercan.cicek\source\repos\SampleProject\SP.Common\obj\Debug\BSW.Common.pdb
